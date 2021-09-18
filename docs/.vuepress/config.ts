@@ -5,10 +5,10 @@ import { navbar, sidebar } from './configs'
 const isProd = process.env.NODE_ENV === 'production'
 
 export default defineUserConfig<DefaultThemeOptions>({
+  base:"/shx-blog/",
   lang: 'zh-CN',
   title: '你好， VuePress ！',
   description: '这是我的第一个 VuePress 站点',
-  base: '/shx-blog/',
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
   ],
