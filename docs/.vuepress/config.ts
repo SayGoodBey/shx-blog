@@ -2,14 +2,15 @@ import { defineUserConfig } from '@vuepress/cli'
 import type { DefaultThemeOptions } from '@vuepress/theme-default'
 import { path } from '@vuepress/utils'
 import { navbar, sidebar } from './configs'
-const isProd = process.env.NODE_ENV === 'production'
+// const isProd = process.env.NODE_ENV === 'production'
 
 export default defineUserConfig<DefaultThemeOptions>({
   //base:"/shx-blog/",
   lang: 'zh-CN',
-  title: '你好， VuePress ！',
-  description: '这是我的第一个 VuePress 站点',
+  title: '微笑🤔',
+  description: '私人博客',
   head: [
+    ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
   ],
   themeConfig:{
@@ -27,6 +28,9 @@ export default defineUserConfig<DefaultThemeOptions>({
         ),
     },
   },
+  plugins:[
+    ['@vuepress/plugin-pwa'],
+  ]
 
 })
 
