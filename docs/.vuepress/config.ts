@@ -7,7 +7,7 @@ import { navbar, sidebar } from './configs'
 export default defineUserConfig<DefaultThemeOptions>({
   //base:"/shx-blog/",
   lang: 'zh-CN',
-  title: '微笑🤔',
+  title: '微笑的博客',
   description: '私人博客',
   head: [
     ['link', { rel: 'apple-touch-icon',sizes:"180x180", href: '/images/icons/apple-touch-icon.png' }],
