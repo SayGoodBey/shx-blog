@@ -1,2 +1,2 @@
-# Hello VuePress
-just be code
+# 微笑
+一个简单的记事本
