@@ -1,6 +1,6 @@
 {
   "name": "微笑的博客",
-  "short_name": "smile-blob",
+  "short_name": "微笑",
   "description": "一个简单的记事本",
   "start_url": "/index.html",
   "display": "standalone",
