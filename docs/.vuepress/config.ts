@@ -2,7 +2,7 @@ import { defineUserConfig } from '@vuepress/cli'
 import type { DefaultThemeOptions } from '@vuepress/theme-default'
 import { path } from '@vuepress/utils'
 import { navbar, sidebar } from './configs'
-// const isProd = process.env.NODE_ENV === 'production'
+const isProd = process.env.NODE_ENV === 'production'
 
 export default defineUserConfig<DefaultThemeOptions>({
   //base:"/shx-blog/",
@@ -45,6 +45,16 @@ export default defineUserConfig<DefaultThemeOptions>({
   },
   plugins:[
     ['@vuepress/plugin-pwa'],
+    // only enable shiki plugin in production mode
+    [
+      //该插件使用 Shiki 来为 Markdown 代码块启用代码高亮。
+      '@vuepress/plugin-shiki',
+      isProd
+        ? {
+          theme: 'dark-plus',
+        }
+        : false,
+    ],
   ]
 
 })
