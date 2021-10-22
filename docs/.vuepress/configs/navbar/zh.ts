@@ -11,6 +11,10 @@ export const zh:NavbarConfig = [
     link:'/vue/'
   },
   {
+    text:'体系学习',
+    link:'/study/'
+  },
+  {
     text:'react',
     link:'/react/'
   },
