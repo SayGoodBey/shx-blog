@@ -30,6 +30,8 @@ export const zh: SidebarConfig = {
          children:[
           '/study/firstweek/fw1.md',
           '/study/firstweek/fw2.md',
+          '/study/firstweek/fw3.md',
+          '/study/firstweek/fw4.md',
          ]
        }
       ]
