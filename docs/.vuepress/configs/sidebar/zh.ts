@@ -1,6 +1,14 @@
 import type { SidebarConfig } from '@vuepress/theme-default'
 
 export const zh: SidebarConfig = {
+  '/git/':[
+    {
+      text:'git总结',
+      children:[
+        '/git/git1.md',
+      ]
+    }
+  ],
   '/about/':[
     {
       text:'关于',

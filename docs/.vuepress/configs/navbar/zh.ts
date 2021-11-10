@@ -3,10 +3,6 @@ import type {NavbarConfig} from '@vuepress/theme-default'
 
 export const zh:NavbarConfig = [
   {
-    text:'关于',
-    link:'/about/'
-  },
-  {
     text:'vue',
     link:'/vue/'
   },
@@ -21,5 +17,17 @@ export const zh:NavbarConfig = [
   {
     text:'node',
     link:'/node/'
-  }
+  },
+  {
+    text:'git',
+    link:'/git/git1'
+  },
+  {
+    text:'webpack',
+    link:'/webpack/'
+  },
+  {
+    text:'关于',
+    link:'/about/'
+  },
 ]
