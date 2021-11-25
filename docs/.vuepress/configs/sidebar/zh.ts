@@ -9,6 +9,14 @@ export const zh: SidebarConfig = {
       ]
     }
   ],
+  '/js/':[
+    {
+      text:'js相关',
+      children:[
+        '/js/js1.md',
+      ]
+    }
+  ],
   '/about/':[
     {
       text:'关于',

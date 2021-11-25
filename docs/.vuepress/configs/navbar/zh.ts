@@ -27,6 +27,10 @@ export const zh:NavbarConfig = [
     link:'/webpack/'
   },
   {
+    text:'js',
+    link:'/js/js1'
+  },
+  {
     text:'关于',
     link:'/about/'
   },
