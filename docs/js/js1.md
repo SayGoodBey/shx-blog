@@ -9,3 +9,5 @@ js 原生方法
 [sort和Localecompare的经历](https://zhuanlan.zhihu.com/p/115248222)
 [js中的localeCompare到底是如何比较的？](http://www.qiutianaimeili.com/html/page/2020/07/20207171bfbctvh896.html)
 
+
+[处理async错误1](https://wesbos.com/javascript/12-advanced-flow-control/71-async-await-error-handling) 
