@@ -32,6 +32,7 @@ export const zh: SidebarConfig = {
       children:[
         '/vue/vuepress.md',
         '/vue/vue3.md',
+        '/vue/vueA1.md',
       ]
     }
   ],
