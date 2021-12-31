@@ -8,3 +8,6 @@ vue3 reactive [响应原理](https://juejin.cn/post/6858899262596448270)
 [ESLint and Prettier with Vite and Vue.js 3](https://vueschool.io/articles/vuejs-tutorials/eslint-and-prettier-with-vite-and-vue-js-3/)
 
 [vue3 setup 使用vuex辅助函数](https://juejin.cn/post/6999473771253874701)
+
+
+[qiankun使用的问题-先记录到这](https://juejin.cn/post/6991860340933804063)

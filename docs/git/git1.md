@@ -28,3 +28,9 @@ git cherry-pick A..B
 git cherry-pick A^..B 
 ```
 
+
+[git 回滚](https://help.coding.net/insight/posts/bb30f4f8/)
+
+[找出一个git分支创建者](https://qastack.cn/programming/12055198/find-out-a-git-branch-creator)
+
+[如何获取按最近提交排序的 Git 分支列表？](https://stackoverflow.com/questions/5188320/how-can-i-get-a-list-of-git-branches-ordered-by-most-recent-commit/5188364#5188364)
