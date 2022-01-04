@@ -34,4 +34,8 @@ export const zh:NavbarConfig = [
     text:'关于',
     link:'/about/'
   },
+  {
+    text:'面试&总结',
+    link:'/audition/js/auditionJs1.md'
+  }
 ]

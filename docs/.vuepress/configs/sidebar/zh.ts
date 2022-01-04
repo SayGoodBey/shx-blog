@@ -53,5 +53,21 @@ export const zh: SidebarConfig = {
        }
       ]
     }
+  ] ,
+  //面试总结
+  '/audition/':[
+    {
+      text:'js',
+      link:'/audition/',
+      children:[
+       {
+         text:'基础',
+         link:'/audition/js/auditionJs1.md',
+         children:[
+          '/audition/js/auditionJs1.md',
+         ]
+       }
+      ]
+    }
   ]
 }
