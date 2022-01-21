@@ -11,3 +11,12 @@ js 原生方法
 
 
 [处理async错误1](https://wesbos.com/javascript/12-advanced-flow-control/71-async-await-error-handling) 
+
+
+[一个有趣自学的网站](https://www.freecodecamp.org/)
+
+
+
+[快速介绍 Web Workers](https://auth0.com/blog/speedy-introduction-to-web-workers/)
+[Web Worker 如何在 JavaScript 中工作——一个实用的 JS 示例](https://www.freecodecamp.org/news/how-webworkers-work-in-javascript-with-example/)
+
