@@ -69,5 +69,17 @@ export const zh: SidebarConfig = {
        }
       ]
     }
+  ],
+  '/react/':[
+    {
+      text:"react",
+      link:'/react/react1.md',
+      children:[
+        {
+          text:'学习资料',
+          link:'/react/react1.md'
+        }
+      ]
+    }
   ]
 }

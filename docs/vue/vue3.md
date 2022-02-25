@@ -11,3 +11,9 @@ vue3 reactive [响应原理](https://juejin.cn/post/6858899262596448270)
 
 
 [qiankun使用的问题-先记录到这](https://juejin.cn/post/6991860340933804063)
+
+
+
+vue3 使用webcomponent
+https://vuejs.org/guide/extras/web-components.html#building-custom-elements-with-vue
+[vue3暂不支持--target wc](https://github.com/vuejs/vue-cli/issues/6033)

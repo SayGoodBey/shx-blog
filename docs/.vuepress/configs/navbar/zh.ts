@@ -12,7 +12,7 @@ export const zh:NavbarConfig = [
   },
   {
     text:'react',
-    link:'/react/'
+    link:'/react/react1'
   },
   {
     text:'node',
