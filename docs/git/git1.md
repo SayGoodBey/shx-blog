@@ -34,3 +34,7 @@ git cherry-pick A^..B
 [找出一个git分支创建者](https://qastack.cn/programming/12055198/find-out-a-git-branch-creator)
 
 [如何获取按最近提交排序的 Git 分支列表？](https://stackoverflow.com/questions/5188320/how-can-i-get-a-list-of-git-branches-ordered-by-most-recent-commit/5188364#5188364)
+
+
+### git commit 规范 
+[commit规范+commitlint+CHANGELOG自动生成一条龙服务](https://juejin.cn/post/6934292467160514567#heading-9)

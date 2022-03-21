@@ -81,5 +81,18 @@ export const zh: SidebarConfig = {
         }
       ]
     }
+  ],
+  //日记
+  '/notes/':[
+    {
+      text:'系统学习',
+      link:'/notes/2022',
+      children:[
+       {
+         text:'2022',
+         link:'/notes/2022.md',
+       }
+      ]
+    }
   ]
 }
