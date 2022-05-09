@@ -38,3 +38,10 @@ git cherry-pick A^..B
 
 ### git commit 规范 
 [commit规范+commitlint+CHANGELOG自动生成一条龙服务](https://juejin.cn/post/6934292467160514567#heading-9)
+
+
+
+### 查看项目git提交
+```js
+git log --since=2022-02-01 --until=2022-04-30 --author="shangxin"  --date=iso --pretty=format:’"%h","%an","%ad","%s"’ >> ~/Desktop/commitdev.csv   
+```
