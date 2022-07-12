@@ -13,3 +13,8 @@ https://www.youtube.com/watch?v=00RoZflFE34
 [form的设计](https://juejin.cn/post/6897038502517555207#heading-4) 
 
 [从组件封装了解 typescript](https://blog.hyyar.com/2021/09/18/%E4%BB%8E%E7%BB%84%E4%BB%B6%E4%BA%8C%E6%AC%A1%E5%B0%81%E8%A3%85%E4%BA%86%E8%A7%A3%20typescript/)
+
+
+[useEffect vs useLayoutEffect](https://juejin.cn/post/6984724483915382815)
+
+[React Context中的性能优化](https://saul-mirone.github.io/zh-hans/performance-optimization-in-react-context/)
