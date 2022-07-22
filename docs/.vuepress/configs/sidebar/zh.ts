@@ -14,6 +14,7 @@ export const zh: SidebarConfig = {
       text:'js相关',
       children:[
         '/js/js1.md',
+        '/js/js2.md'
       ]
     }
   ],
