@@ -94,7 +94,7 @@ $ lerna diff package-name
 13. `lerna publish` 发布包
 + 发布时会自动执行：git add package-lock.json，所以 package-lock.json 不要加入 .gitignore
 + 先创建远程仓库，并且同步一次 master 分支
-+ 执行 lerna publish 前先完成 npm login
++ 执行 lerna publish 前先完成 npm login，登录的时候要先检查npm源地址，要切换到https://registry.npmjs.org/
 + 如果发布的 npm 包名为：@xxx/yyy 的格式，需要先在 npm 注册名为：xxx 的 organization，否则可能会提交不成功
 + 发布到 npm group 时默认为 private，所以我们需要手动在 package.json 中添加如下配置：
 ```json

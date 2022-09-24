@@ -92,4 +92,17 @@ export const zh: SidebarConfig = {
       ],
     },
   ],
+  "/cli/": [
+    {
+      text: "前端工程化",
+      link: "/cli/",
+      children: [
+        {
+          text: "lerna",
+          link: "/cli/lerna/start.md",
+          children: ["/cli/lerna/start.md"],
+        },
+      ],
+    },
+  ],
 };
