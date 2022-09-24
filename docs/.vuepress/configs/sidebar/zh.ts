@@ -10,7 +10,7 @@ export const zh: SidebarConfig = {
   "/js/": [
     {
       text: "js相关",
-      children: ["/js/js1.md", "/js/js2.md"],
+      children: ["/js/js1.md", "/js/js2.md", "bind.md", "json-nested.md"],
     },
   ],
   "/about/": [
