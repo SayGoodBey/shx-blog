@@ -16,4 +16,5 @@
 [github 前端进阶系列](https://github.com/yygmind/blog)
 
 # 面试成长
-[前端面试题](https://github.com/febobo/web-interview)
+[前端面试题](https://github.com/febobo/web-interview)    
+[面试总结](https://juejin.cn/post/7013953652578582558)
