@@ -22,8 +22,8 @@ export const zh: NavbarConfig = [
     link: "/git/git1",
   },
   {
-    text: "webpack",
-    link: "/webpack/",
+    text: "CLI",
+    link: "/cli/",
   },
   {
     text: "js",
